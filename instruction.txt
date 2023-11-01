@@ -1,0 +1,2 @@
+added paragraph to html file
+as well as another alert function that greets our new user.
